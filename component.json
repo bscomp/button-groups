@@ -1,0 +1,9 @@
+{
+  "name": "button-groups",
+  "repo": "bscomp/button-groups",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "styles": ["index.less"]
+}
